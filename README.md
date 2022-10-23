@@ -1,7 +1,12 @@
 # lightSwitch
 
-1. 
-- Create a Room component with a "lightswitch" button and some text describing "The room is lit" or "The room is dark". 
+## Link
+
+- Live Site URL: [https://saadmalik200.github.io/simple-light-switch-react/](https://saadmalik200.github.io/simple-light-switch-react/)
+
+1.
+
+- Create a Room component with a "lightswitch" button and some text describing "The room is lit" or "The room is dark".
 - Clicking the button should toggle the light on and off, and update the text.
 - Use the useState hook to store the lightswitch state.
 
@@ -35,5 +40,4 @@ button {
   background-color: black;
   color: white;
 }
-
 ```
