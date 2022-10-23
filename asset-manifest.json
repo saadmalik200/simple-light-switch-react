@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-light-switch-react/static/css/main.20c89dd5.css",
+    "main.js": "/simple-light-switch-react/static/js/main.d6094f28.js",
+    "index.html": "/simple-light-switch-react/index.html",
+    "main.20c89dd5.css.map": "/simple-light-switch-react/static/css/main.20c89dd5.css.map",
+    "main.d6094f28.js.map": "/simple-light-switch-react/static/js/main.d6094f28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c89dd5.css",
+    "static/js/main.d6094f28.js"
+  ]
+}
